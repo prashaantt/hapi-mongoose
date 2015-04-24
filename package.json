@@ -1,0 +1,19 @@
+{
+  "name": "hapi-mongoose",
+  "version": "0.0.1",
+  "description": "An example Hapi app",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "hapi": "^8.4.0",
+    "hapi-hogan": "^1.0.1",
+    "hogan.js": "^3.0.2",
+    "joi": "^6.2.0",
+    "lout": "^6.2.2",
+    "mongoose": "^4.0.1"
+  }
+}
